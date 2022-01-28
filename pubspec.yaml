@@ -1,7 +1,8 @@
 name: auto_refresh_widget
 description: A flutter widget that automatically reloads based on a time interval.
 version: 0.1.0
-homepage: hextools.0xba1.xyz
+homepage: https://hextools.0xba1.xyz
+repository: https://github.com/0xba1/auto_refresh_widget.git
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
